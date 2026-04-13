@@ -1,0 +1,11 @@
+{
+  "name": "frontier-ai-agent",
+  "version": "1.0.0",
+  "description": "Autonomous protocol management and governance agent",
+  "dependencies": {
+    "openai": "^4.20.0",
+    "viem": "^2.0.0",
+    "dotenv": "^16.3.0",
+    "langchain": "^0.0.190"
+  }
+}
