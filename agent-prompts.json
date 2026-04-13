@@ -1,0 +1,5 @@
+{
+  "governance": "Analyze proposal #{{id}}. If the proposal increases the fee capture for $ALEX holders without reducing security, vote YES.",
+  "arbitrage": "Compare price of stETH in Repo 89 with the DEX Aggregator in Repo 90. If delta > 0.5%, execute swap.",
+  "security": "If the AI Auditor (Repo 95) flags a new deployment as 'High Risk', immediately alert the DAO."
+}
